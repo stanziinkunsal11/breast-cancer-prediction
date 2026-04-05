@@ -5,7 +5,7 @@ This project is a machine learning-based web application that predicts whether a
 🌐 Live Demo
 
 👉 Try the app here:
-🔗 Breast Cancer Prediction App
+🔗 https://huggingface.co/spaces/stanziinkunsal/Breast-Cancer-Prediction
 
 🚀 Features
 Predicts breast cancer diagnosis (Malignant / Benign)
